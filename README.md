@@ -1,5 +1,5 @@
  <div align="center">
- <h1 align="center">### Bienvenido a mi perfil githutb 👋 ##</h1>
+ <h1 align="center">### Bienvenido a mi perfil👋 ###</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZhNDNlNmY4MzIwYTIyYWFmMTVmODEyYzdmYjliNDc2MDBlZTAzZSZjdD1n/fr4GKfJFL92G3z1LkV/giphy.gif" width='300' />
 </div>
 <!--REDES SOCIALES-->
