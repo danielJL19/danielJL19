@@ -2,6 +2,10 @@
  <h1 align="center">### Bienvenido a mi perfil githutb 👋 ##</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZhNDNlNmY4MzIwYTIyYWFmMTVmODEyYzdmYjliNDc2MDBlZTAzZSZjdD1n/fr4GKfJFL92G3z1LkV/giphy.gif" width='300' />
 </div>
+<div align="center">
+ <a href="https://www.linkedin.com/in/danieljimenezjl19/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-informational"/></a>
+ <a href="https://danieljimenezl.netlify.app/"><img src="https://img.shields.io/badge/-MI%20SITIO%20WEB-brightgreen"/></a>
+ </div>
 En este mundo informático busco desarrollarme como programador web, creando proyectos y aprendiendo de manera
 auto-didacta
 Aqui van mis skills que manejo:
