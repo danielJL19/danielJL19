@@ -11,17 +11,21 @@
  <!--ABOUT ME -->
  ---
 <h2>SOBRE MI</h2>
-En este mundo informático busco desarrollarme como programador web, creando proyectos y aprendiendo de manera
-auto-didacta
-Aqui van mis skills que manejo:
+<p>En este mundo informático busco desarrollarme como programador web, creando proyectos y aprendiendo de manera
+auto-didacta, utilizando AWS como servidor EC2 y bases de datos en RDS</p>
 
-- 🔭 PHP (backend)-->NIVEL INTERMEDIO
-- 🌱 JS,HTML,CSS(frontend)--> NIVEL INTERMEDIO
-- 👯 MYSQL (BASE DE DATOS)-->NIVEL INTERMEDIO
-- 🤔 GIT Y GITHUB 
+<h3>Tecnologías utilizadas :</h3> 
+<div align="start">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" heigth="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" heigth="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" heigth="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" heigth="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" heigth="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" heigth="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" heigth="40"/>
+ 
+ </div>
+
 ---
 <h2>ÁREAS QUE ME INTERESAN EN LA INFORMÁTICA</h2>
-  EN GENERAL, ME GUSTARIA SABER UN POCO DE TODO, PERO SI VAMOS A UNA LISTA DE MAS A MENOS
-            -DESARROLLO WEB
-            -CLOUD  
-            -CIBERSEGURIDAD
+<p>Me gustaría aprender todas las áreas de la informática, aunque sea básico. Sin embargo, estoy más interesado en CLOUD, Ciberseseguridad y desarrollo web</p>
