@@ -12,7 +12,7 @@
  ---
 <h2>SOBRE MI</h2>
 <p>En este mundo informático busco desarrollarme como programador web, creando proyectos y aprendiendo de manera
-auto-didacta, utilizando AWS como servidor EC2 y bases de datos en RDS</p>
+auto-didacta, utilizando AWS como servidor EC2 y bases de datos en RDS. Además de aplicar conocimientos de seguridad de datos para evitar inyecciones SQL</p>
 
 <h3>Tecnologías utilizadas :</h3> 
 <div align="start">
