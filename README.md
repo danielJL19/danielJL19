@@ -11,8 +11,9 @@
  <!--ABOUT ME -->
  ---
 <h2>SOBRE MI</h2>
-<p>En este mundo informático busco desarrollarme como programador web, creando proyectos y aprendiendo de manera
-auto-didacta, utilizando AWS como servidor EC2 y bases de datos en RDS. Además de aplicar conocimientos de seguridad de datos para evitar inyecciones SQL</p>
+<p>
+Soy desarrollador de software en la cual empleo mis servicios para el diseño, creación y ejecución de aplicaciones, desde el lado visual (front-end) hasta el servidor (back-end)
+</p>
 
 <h3>Tecnologías utilizadas :</h3> 
 <div align="start">
