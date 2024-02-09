@@ -26,6 +26,8 @@ auto-didacta, utilizando AWS como servidor EC2 y bases de datos en RDS. Además 
  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" heigth="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" heigth="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" heigth="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" heigth="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" heigth="40"/>
  </div>
 
 ---
